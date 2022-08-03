@@ -44,3 +44,5 @@ Project done during **Alx Full Stack Software Engineering studies**
 
 | `101-stats.py` | Function that reads `stdin` line by line and computes metrics |
 
+## Author
+* **Abdulbasit Ali** - [basitali2779](https://github.com/basitali2779)
